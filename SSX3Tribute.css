@@ -1,0 +1,123 @@
+
+
+ header {
+    background-image: url(HeaderBackground.jpg);
+    background-position: center 0;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    height: 100vh;
+
+ }
+
+ body, html {
+    height: 100%;
+    margin: 0px;
+ }
+
+#logo {
+    display: block;
+    max-width: 40vw; 
+    max-height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    opacity: 0.85;
+  }
+
+  #main {
+    background-image: url(HeaderBackground.jpg);
+    background-position: center 0;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    height: 100vh;
+}
+
+/* #tribute-info {
+    max-width: 50vw;
+    border-radius: 0.5vw;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: white;
+    background-color:#192a3c;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    } */
+
+    #tribute-info {
+        max-width: 50vw;
+        border-radius: 0.5vw;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        font-size: 24px;
+        color: white;
+        background-color:#0000003f;
+        backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
+        padding-left: 2vw;
+        padding-right: 2vw;
+        }
+    
+
+#image {
+    display: block;
+    max-width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#concept1 {
+    max-width: 22.5vw;
+    max-height: fit-content;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+#concept2 {
+    max-width: 22.5vw;
+    max-height: fit-content;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+#conceptblock {
+    text-align: center;
+}
+
+#conceptartcaption {
+    text-align: center;
+}
+
+#characters {
+    max-width: 50vw;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 500;
+}
+
+a {
+    color: orange;
+}
+
+  
